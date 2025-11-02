@@ -1,0 +1,5 @@
+{
+  "name": "QuizQuest AI",
+  "description": "An AI-powered quiz website that generates multiple-choice questions based on your grade and subject. Compete on the leaderboard and test your knowledge with timed questions and fun sound effects.",
+  "requestFramePermissions": []
+}
